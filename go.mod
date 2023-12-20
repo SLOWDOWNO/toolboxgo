@@ -1,4 +1,4 @@
-module github.com/SLOWDOWNO/toolboxgo
+module github.com/go-programming-tour-book/tour
 
 go 1.21.5
 
